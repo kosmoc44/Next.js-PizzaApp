@@ -8,9 +8,16 @@ import { cn } from "@/lib/utils";
 import { useIntersection } from "react-use";
 import { useCategoryStore } from "@/store/category";
 
+interface ProductItem {
+  id: number;
+  name: string;
+  imageUrl: string;
+  items: { price: number }[];
+}
+
 interface Props {
   title: string;
-  items: any[];
+  items: ProductItem[]; // any[]
   categoryId: number;
   className?: string;
   listClassName?: string;
@@ -34,7 +41,7 @@ export const ProductsGroupList: React.FC<Props> = ({
     if (intersection?.isIntersecting) {
       setActiveCategoryId(categoryId);
     }
-  }, [categoryId, intersection?.isIntersecting, title]);
+  }, [categoryId, intersection?.isIntersecting, title, setActiveCategoryId]);
 
   return (
     <div
