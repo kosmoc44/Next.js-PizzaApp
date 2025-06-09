@@ -13,6 +13,7 @@ interface ProductItem {
   name: string;
   imageUrl: string;
   items: { price: number }[];
+  price: number;
 }
 
 interface Props {
