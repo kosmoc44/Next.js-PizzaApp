@@ -33,7 +33,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 2,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -41,7 +41,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 3,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -49,7 +49,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 4,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -57,7 +57,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 5,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -65,7 +65,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 6,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -79,7 +79,7 @@ export default function Home() {
                 title="Combo"
                 items={[
                   {
-                    id: 1,
+                    id: 7,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -87,7 +87,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 8,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -95,7 +95,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 9,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -103,7 +103,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 10,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -111,7 +111,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 11,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -119,7 +119,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 12,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -133,7 +133,7 @@ export default function Home() {
                 title="Combo"
                 items={[
                   {
-                    id: 1,
+                    id: 13,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -141,7 +141,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 14,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -149,7 +149,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 15,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -157,7 +157,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 16,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -165,7 +165,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 17,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
@@ -173,7 +173,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 18,
                     name: "Chesse Bomb",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:292x292/11ee89722ed2d2f992155a94fa4d383a.avif",
