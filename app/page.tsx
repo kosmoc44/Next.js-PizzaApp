@@ -5,6 +5,7 @@ import {
   TopBar,
 } from "@/components/shared";
 import Filters from "@/components/shared/filters";
+import { Suspense } from "react";
 
 export default function Home() {
   return (
@@ -17,7 +18,9 @@ export default function Home() {
       <Container className="pb-14 mt-9">
         <div className="flex gap-[80px]">
           <div className="w-[250px]">
-            <Filters />
+            <Suspense fallback={<div>Загрузка фильтров...</div>}>
+              <Filters />
+            </Suspense>
           </div>
           <div className="flex-1">
             <div className="flex flex-col gap-16">
